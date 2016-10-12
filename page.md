@@ -15,7 +15,7 @@
 ![coolphoto](http://imgs.xkcd.com/comics/tasks.png)
 
 * * *
-Lines are pretty Cool
+Lines are pretty Cool!
 * * * 
 
 #### Lists are Cool too:  
